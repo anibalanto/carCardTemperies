@@ -1,0 +1,1 @@
+insert into company values (1, "VW"), (2, "Fiat"), (3, "Ford"), (4, "BMW"), (5, "AlfaRomeo");
